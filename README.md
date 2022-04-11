@@ -14,7 +14,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mrinalfouzdar.github.io/protfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mrinalfouzdarportfolio.netlify.app/)**
 
 - 📫 How to reach me **mrinalfouzdar123@gmail.com**
 
